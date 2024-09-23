@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Jaewon 👋
+
+I'm a current senior at Columbia University studying Computer Science. Right now, I'm taking on Operating Systems, Cloud Computing, UI Design, and NLP. I also just wrapped up a 6-week batch at the [Recurse Center](https://www.recurse.com/), and am currently looking for internships or full-time roles beginning in Summer 2025. 
+
+- 🔭 I’m currently working on: "Building a Debugger" by Sy Brand and a RAG application that uses a knowledge graph
+- 💬 Ask me about: my time at the Recurse Center!
+- 📫 How to reach me: lee.jaewon078@gmail.com or jl6367@columbia.edu
 
 <!--
 **jaewon078/jaewon078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
